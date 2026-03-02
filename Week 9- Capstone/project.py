@@ -5,7 +5,7 @@ import urllib.parse
 
 # --- CONFIGURATION ---
 # Target: Tesla Model 3/Y Long Range profile
-API_KEY = "AIzaSyAsv9gcSJ-1JGUKObdR04UNekONzgqhgDU" 
+API_KEY = "Your own API KEY" 
 VEHICLE_MODEL = "Tesla Model 3/Y Long Range"
 TESLA_CAPACITY_KWH = 75.0
 TESLA_EFFICIENCY_KM_KWH = 6.5 
